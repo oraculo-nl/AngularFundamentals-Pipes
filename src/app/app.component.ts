@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { TelefoonnummerPipe } from './telefoonnummer.pipe';
+
 
 class Car {
   speed: number = 0;
